@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.22.1",
-    "babili-webpack-plugin": "^0.0.9",
+    "babili-webpack-plugin": "^0.0.10",
     "flow-parser": "^0.38.0",
     "lodash.clonedeep": "^4.5.0",
     "webpack": "^2.2.1"
